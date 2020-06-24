@@ -62,4 +62,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Specific Gems for this project
-gem "wysiwyg-rails"
+gem "summernote-rails"
